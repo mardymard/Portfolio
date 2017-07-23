@@ -1,0 +1,19 @@
+.info {
+    text-align: right;
+}
+
+.icon {
+    margin: 20px 0 0 0;
+    max-height: 100px;
+    max-width: 100px;
+}
+
+.centering {
+    text-align: center;
+}
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
